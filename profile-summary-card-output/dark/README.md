@@ -42,23 +42,3 @@
 ```
 
     
-
----
-
-![](./3-stats.svg)
-
-```
-![](https://raw.githubusercontent.com/yuuttana1223/yuuttana1223/main/profile-summary-card-output/dark/3-stats.svg)
-```
-
-    
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/yuuttana1223/yuuttana1223/main/profile-summary-card-output/dark/4-productive-time.svg)
-```
-
-    
